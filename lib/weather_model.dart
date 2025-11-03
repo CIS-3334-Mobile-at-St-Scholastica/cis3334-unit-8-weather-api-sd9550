@@ -46,6 +46,7 @@ class WeatherForecast {
   }
 }
 
+// Simplified data for this example
 class DailyForecast {
   final String day;
   final double temperature;
